@@ -5,3 +5,5 @@ This is a test repo for web19
 This is my local code
 
 Yet another change
+
+full speed with terminal
